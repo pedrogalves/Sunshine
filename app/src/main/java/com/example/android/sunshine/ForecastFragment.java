@@ -57,7 +57,7 @@ public class ForecastFragment extends Fragment {
         return rootView;
     }
 
-    public class FetchWeatherTask ()
+    public class FetchWeatherTask ( teste )
     {
         // These two need to be declared outside the try/catch
         // so that they can be closed in the finally block.
